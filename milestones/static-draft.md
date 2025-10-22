@@ -12,7 +12,7 @@ I have been able to find clean and well-structured data, so I did not face any d
 
 1. US Federal Budget: This chart shows US federal receipts, outlays, and the resulting budget surplus or deficit from 1960 onward. The green and red shaded areas highlight periods of surplus and deficit, while the blue and orange lines compare overall spending and revenue trends over time.
 
-![Image1](../charts/1.jpg)
+![Image1](../charts/chart1.jpg)
 
 
 2. US Federal Budget as a % of GDP: This chart shows federal receipts, outlays, and the surplus or deficit as a percentage of GDP since 1960. It highlights how government spending and revenue have moved relative to the size of the economy, with the zero line marking periods of balance or deficit.
